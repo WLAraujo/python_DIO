@@ -1,0 +1,14 @@
+Dados (representação simbólica) -> Informação (conjunto de dados com sentido)
+
+O que é segurança da informação?
+Área com objetivo de assegurar que todos os dados/informações estejam sempre confidenciais, íntegros e 
+disponíveis em qualquer meio de comunicação.
+
+Princípios da segurança da informação:
+    * Integridade - Princípio que visa proteger a informação de alterações indevidas
+    * Confidencialidade - Princípio que visa manter uma informação confidencial
+    * Disponibilidade - Princípio que visa garantir que um recurso e/ou informação esteja disponível
+    * Identificação - Princípio que visa identificar uma entidade
+    * Autenticação - Princípio que visa verificar a entidade e suas credenciais
+    * Autorização - Princípio que visa autorizar a entidade dentro do sistema
+    * Não repúdio - Princípio que visa evitar que uma entidade negue suas ações em um sistema

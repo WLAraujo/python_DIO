@@ -1,0 +1,12 @@
+Biblioteca socket fornece acesso de baixo nível à interface de rede.
+O S.O. fornece a API socket que relaciona o programa com a rede.
+
+TCP (Transmission Control Protocol) - Protocolo de comunicação que dá suporte à rede global de internet
+verificando se os dados são enviados na sequência correta e sem erros.
+
+UDP (User Datagram Protocol) - Protocolo simples de camada de transporte que permite que a aplicação envie um
+datagrama dentro de um pacote IPv4 ou IPv6 a um destino, porém, sem qualquer garantia que o pacote chegue
+corretamente.
+
+O que faremos aqui: Usando a biblioteca Socket do Python criaremos um cliente TCP, um cliente UDP e um servidor
+para se conectar aos clientes.

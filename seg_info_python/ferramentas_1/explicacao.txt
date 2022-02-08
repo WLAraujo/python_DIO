@@ -1,0 +1,19 @@
+Biblioteca Random -> Biblioteca que implementa geradores de números pseudoaleatórios baseados
+em várias distribuições
+
+Vamos usar a biblioteca random no gerador de senhas para randomizar letras e números e gerar uma nova senha de
+maneira aleatória a cada execução.
+
+Hash -> Identificador único que associa a cada arquivo uma sequência única que só aquele arquivo terá.
+
+Vamos usar a biblioteca hashlib para implementar um comparador de hashes. Essa biblitoeca implementa uma 
+interface comum para muitos algoritmos de hash seguros como o SHA1, o SHA256 e o MD5. 
+
+Thread -> É um processo, sendo que no ambiente multithreading temos processos que podem responder a várias
+solicitações concorrentes e simultâneas.
+
+Vamos usar a biblioteca threading, ela possui interfaces de alto nível para processamento usando threads, ou
+seja, possibilita uma relação direta com o processador.
+
+Uma outra biblioteca que vamos usar é a ipadress, ela tem a capacidade de criar e manipular endereços IP
+do tipo IPv4 e IPv6.

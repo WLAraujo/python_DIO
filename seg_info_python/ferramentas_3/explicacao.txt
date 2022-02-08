@@ -1,0 +1,5 @@
+Ferramentas que serão desenvolvidas:
+* Verificador de telefone
+* Ocultador de arquivos
+* Verificador de IP externo
+* Ferramenta gráfica para abrir o navegador

@@ -1,0 +1,25 @@
+Nessa pasta estão alguns códigos do curso de introdução à programação com Python.
+
+Aula 1 - O que é a linguagem Python.
+
+Aula 2 - Variáveis.
+
+Aula 3 - Condicionais.
+
+Aula 4 - Laços de repetição.
+
+Aula 5 - Listas e tuplas.
+
+Aula 6 - Conjuntos.
+
+Aula 7 - Métodos, funções e classes.
+
+Aula 8 - Funções lambda e importar módulos e classes.
+
+Aula 9 - Arquivos externos.
+
+Aula 10 - Biblioteca datetime.
+
+Aula 11 - Exceções (try, except, else, finally).
+
+Aula 12 - Utilizando pacotes e realizando requisições.

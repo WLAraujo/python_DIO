@@ -1,0 +1,5 @@
+Nessa segunda aula para desenvolvimento de ferramentas vamos fazer:
+    1. Gerador de hashes
+    2. Gerador de wordlists
+    3. Desenvolver um web scraping
+    4. Desenvolver um web crawler

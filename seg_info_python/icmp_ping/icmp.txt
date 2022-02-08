@@ -1,0 +1,13 @@
+ICMP (Internet Control Message Protocol) - Protocolo integrande do protocolo IP utilizado para fornecer
+relatórios de erros à fonte original.
+
+ping - Ferramenta que usa o protocolo ICMP para testar a conectividade entre nós. Consiste no envio de pacotes
+para o equipamento de destino e na "escuta" das respostas. Trata do princípio da disponibilidade.
+
+Host -> (echo request) -> Server
+     <- (echo reply)   <- 
+
+
+
+
+
